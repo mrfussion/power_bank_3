@@ -1,7 +1,5 @@
 # Power Bank 3
 
-(escribir lo mismo en español?)
-
 Power bank 3 (aka pb3) is the easiest way to recycle notebook batteries. It is only necessary to buy a very cheap module, some welds and a two printed-3d parts.
 
 ## Parts
@@ -12,9 +10,11 @@ Power bank 3 (aka pb3) is the easiest way to recycle notebook batteries. It is o
 4. A tin and tin soldering iron
 5. 3d printed body and lid
 
-
-[ foto de todo lo necesario ]
-
+![front](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/0-tools.jpeg?token=ANAUAUR6IGHIUWHDKEXSOZTAYFGEC) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/1-battery.jpeg?token=ANAUAUQJMLHX5SNSKZFY7VLAYFGIK) |
+| - | - |
+| ![left](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/2-module.jpeg?token=ANAUAUWGL55GCK5CSZJKGQLAYFGPK) | ![back](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/3-body.jpeg?token=ANAUAUVLXJI4N3DOJA75ZLLAYFGSO) |
+| - | - |
+| ![center](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/4-top.jpeg?token=ANAUAUS7XFGGVJWVTSV5SRDAYFG4U) |
 ## Procedure
 
 ### Procure the batteries
