@@ -4,13 +4,13 @@ Power bank 3 (aka pb3) is the easiest way to recycle notebook batteries. It is o
 
 ## Parts
 
-1. Notebook battery or 3 18650 batterys
-2. Module XXXX from [ebay or amazon] or [mercadolibre]
-3. A wire to connect the batteries and the module
-4. A tin and tin soldering iron
-5. 3d printed body and lid
+- Tools: A tin, tin soldering iron and pliers
+- Notebook battery or 3 18650 batterys
+- Module XXXX from [ebay or amazon] or [mercadolibre]
+- A wire to connect the batteries and the module
+- 3d printed body and lid
 
-![front](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/0-tools.jpeg?token=ANAUAUT36ZIMEENUBZJNUM3AYFHCA) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/1-battery.jpeg?token=ANAUAUQ6PA4QS7HA4GQQNADAYFHGC) |
+| ![front](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/0-tools.jpeg?token=ANAUAUT36ZIMEENUBZJNUM3AYFHCA) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/1-battery.jpeg?token=ANAUAUQ6PA4QS7HA4GQQNADAYFHGC) |
 | - | - |
 | ![left](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/2-module.jpeg?token=ANAUAUWGL55GCK5CSZJKGQLAYFGPK) | ![back](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/3-body.jpeg?token=ANAUAUVLXJI4N3DOJA75ZLLAYFGSO) |
 | - | - |
@@ -19,25 +19,22 @@ Power bank 3 (aka pb3) is the easiest way to recycle notebook batteries. It is o
 
 ### Procure the batteries
 
-[ una o dos fotos desarmando la bateria de portatil ]
+- Carefully disassemble the battery
+- Separate the battery pack and assemble a new one with only 3 cells in parallel (as seen in the photo)
+- Solder two cables to the charging module in the same way as seen in the photo (you can leave them longer and cut them later)
+- Solder the cables from the board to the battery packs so that they are on the side and on top (see photo again)
+- Then place inside the case and place the lid (preferably glued)
+- Put your new power bank to charge! and it's ready to use
 
-(tambien se pueden comprar nuevas)
+| ![front](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/5-step1.jpeg?token=ANAUAUWXZJ4KMCHKRQYISJ3AYFID4) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/6-step2.jpeg?token=ANAUAUS525KOYYBH2DWZRCTAYFIVS) |
+| - | - |
+| ![left](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/7-step3.jpeg?token=ANAUAUQJTOTJPCDPGLZE2ETAYFI7S) | ![back](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/8-step4.jpeg?token=ANAUAURJ4DTFVIKKIG64PQ3AYFJLY) |
+| - | - |
+| ![front](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/8-step4.jpeg?token=ANAUAUXQ72TG3W6JXWLPOTLAYFJR2) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/9-step5.jpeg?token=ANAUAUWSXGH2ZCCO6AI4QLTAYFJU6) |
+| ![left](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/10-step6.jpeg?token=ANAUAUU52SJXREQBYZHKBQTAYFJ54) | ![back]() |
 
-### Joining them
+![center](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/12-step8.jpeg?token=ANAUAUWWYEBDWG7FS7XEJV3AYFKMS)
 
-[ una o dos fotos soldando las baterias con cables ]
-
-
-### Adding the module
-
-[ una o dos fotos soldando el modulo en su lugar ]
-(remarcar el lugar donde tiene que ser soldado el modulo)
-
-### Assembled
-
-[ fotos de como armar el power bank ]
-
-se acabo
 
 
 
