@@ -14,7 +14,7 @@ If you want to modify the sketchup drawings, feel free to ask me
 - 3d printed body and lid
 
 | ![front](imgs/0-tools.jpeg) | ![right](imgs/1-battery.jpeg) |
-| - | - |
+| ----- | ----- |
 | ![left](imgs/2-module.jpeg) | ![back](imgs/3-body.jpeg) |
 | ![front](imgs/4-top.jpeg) | |
 
@@ -28,6 +28,7 @@ If you want to modify the sketchup drawings, feel free to ask me
 - Put your new power bank to charge! and it's ready to use
 
 | ![front](imgs/5-step1.jpeg) | ![right](imgs/6-step2.jpeg) |
+| ---- | ----- |
 | ![left](imgs/7-step3.jpeg) | ![back](imgs/8-step4.jpeg) |
 | ![front](imgs/9-step5.jpeg) | ![right](imgs/10-step6.jpeg) |
 | ![left](imgs/11-step7.jpeg) | ![back](imgs/12-step8.jpeg) |
