@@ -10,11 +10,11 @@ Power bank 3 (aka pb3) is the easiest way to recycle notebook batteries. It is o
 - A wire to connect the batteries and the module
 - 3d printed body and lid
 
-| ![front](imgs/0-tools.jpeg) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/1-battery.jpeg?token=ANAUAUQ6PA4QS7HA4GQQNADAYFHGC) |
+| ![front](imgs/0-tools.jpeg) | ![right](imgs/1-battery.jpeg) |
 | - | - |
-| ![left](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/2-module.jpeg?token=ANAUAUWGL55GCK5CSZJKGQLAYFGPK) | ![back](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/3-body.jpeg?token=ANAUAUVLXJI4N3DOJA75ZLLAYFGSO) |
+| ![left](imgs/2-module.jpeg) | ![back](imgs/3-body.jpeg) |
 | - | - |
-| ![center](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/4-top.jpeg?token=ANAUAUS7XFGGVJWVTSV5SRDAYFG4U) |
+| ![center](imgs/4-top.jpeg) |
 ## Procedure
 
 ### Procure the batteries
@@ -26,14 +26,14 @@ Power bank 3 (aka pb3) is the easiest way to recycle notebook batteries. It is o
 - Then place inside the case and place the lid (preferably glued)
 - Put your new power bank to charge! and it's ready to use
 
-| ![front](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/5-step1.jpeg?token=ANAUAUWXZJ4KMCHKRQYISJ3AYFID4) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/6-step2.jpeg?token=ANAUAUS525KOYYBH2DWZRCTAYFIVS) |
+| ![front](imgs/5-step1.jpeg) | ![right](imgs/6-step2.jpeg) |
 | - | - |
-| ![left](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/7-step3.jpeg?token=ANAUAUQJTOTJPCDPGLZE2ETAYFI7S) | ![back](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/8-step4.jpeg?token=ANAUAURJ4DTFVIKKIG64PQ3AYFJLY) |
+| ![left](imgs/7-step3.jpeg) | ![back](imgs/8-step4.jpeg) |
 | - | - |
-| ![front](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/8-step4.jpeg?token=ANAUAUXQ72TG3W6JXWLPOTLAYFJR2) | ![right](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/9-step5.jpeg?token=ANAUAUWSXGH2ZCCO6AI4QLTAYFJU6) |
-| ![left](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/10-step6.jpeg?token=ANAUAUU52SJXREQBYZHKBQTAYFJ54) | ![back]() |
+| ![front](imgs/8-step4.jpeg) | ![right](imgs/9-step5.jpeg) |
+| ![left](imgs/10-step6.jpeg) | ![back]() |
 
-![center](https://raw.githubusercontent.com/mrfussion/power_bank_3/main/imgs/12-step8.jpeg?token=ANAUAUWWYEBDWG7FS7XEJV3AYFKMS)
+![center](imgs/12-step8.jpeg)
 
 
 
