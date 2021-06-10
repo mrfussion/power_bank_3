@@ -21,9 +21,9 @@ If you want to modify the sketchup drawings, feel free to ask me
 ## Procedure
 
 - Carefully disassemble the battery
-- Separate the battery pack and assemble a new one with only 3 cells in parallel (as seen in the photo)
+- Separate the battery pack and assemble a new one with only 3 cells in parallel
 - Solder two cables to the charging module in the same way as seen in the photo (you can leave them longer and cut them later)
-- Solder the cables from the board to the battery packs so that they are on the side and on top (see photo again)
+- Solder the cables from the board to the battery packs so that they are on the side and on top
 - Then place inside the case and place the lid (preferably glued)
 - Put your new power bank to charge! and it's ready to use
 
