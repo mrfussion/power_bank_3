@@ -11,7 +11,7 @@ If you want to modify the sketchup drawings, feel free to ask me
 - Notebook battery or 3 18650 batterys
 - Power bank module T6845-C 
 - A wire to connect the batteries and the module
-- 3d printed body and lid
+- 3d printed body and lid [Thingiverse proyect](https://www.thingiverse.com/thing:4882346)
 
 | ![front](imgs/0-tools.jpeg) | ![right](imgs/1-battery.jpeg) |
 | ----- | ----- |
