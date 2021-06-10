@@ -27,8 +27,8 @@ Power bank 3 (aka pb3) is the easiest way to recycle notebook batteries. It is o
 | ![front](imgs/5-step1.jpeg) | ![right](imgs/6-step2.jpeg) |
 | - | - |
 | ![left](imgs/7-step3.jpeg) | ![back](imgs/8-step4.jpeg) |
-| ![front](imgs/8-step4.jpeg) | ![right](imgs/9-step5.jpeg) |
-| ![left](imgs/10-step6.jpeg) | ![back](imgs/12-step8.jpeg) |
+| ![front](imgs/9-step4.jpeg) | ![right](imgs/10-step5.jpeg) |
+| ![left](imgs/11-step6.jpeg) | ![back](imgs/12-step8.jpeg) |
 
 
 
