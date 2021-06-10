@@ -16,7 +16,7 @@ If you want to modify the sketchup drawings, feel free to ask me
 | ![front](imgs/0-tools.jpeg) | ![right](imgs/1-battery.jpeg) |
 | - | - |
 | ![left](imgs/2-module.jpeg) | ![back](imgs/3-body.jpeg) |
-| ![center](imgs/4-top.jpeg) |
+| ![front](imgs/4-top.jpeg) | ![right] |
 
 ## Procedure
 
