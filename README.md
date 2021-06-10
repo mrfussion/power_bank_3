@@ -14,6 +14,7 @@ If you want to modify the sketchup drawings, feel free to ask me
 - 3d printed body and lid
 
 | ![front](imgs/0-tools.jpeg) | ![right](imgs/1-battery.jpeg) |
+| - | - | - |
 | ![left](imgs/2-module.jpeg) | ![back](imgs/3-body.jpeg) |
 | ![front](imgs/4-top.jpeg) | |
 
